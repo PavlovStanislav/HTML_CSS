@@ -1,0 +1,25 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<!DOCTYPE teacher SYSTEM "F:/ИТМО/HTML/Practice/library.dtd">
+
+<library>
+	<book_catalog>
+		<book id="ID" isbn="0" year="1999" issue="Translation">
+			<authors>
+				<author></author>
+				<title></title>
+				<publishing></publishing>
+				<annotation></annotation>
+			</authors>
+		</book>
+	</book_catalog>
+	
+	<author_catalog>
+		<author_book idref="IDREF"></author_book>		
+	</author_catalog>
+	
+<element linux = "Linux">Information</element>
+<element internet = "Internet">Information</element>	
+</library>	
+
+
+

@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<!DOCTYPE teacher SYSTEM "F:/ИТМО/HTML/Practice/lessonsDTD.dtd">
+<teacher>
+	<person>
+		<SubjectName> HTML </SubjectName>
+		<TeacherLastName>Смольянинов </TeacherLastName>
+		<StudyTime>18:30 - 21:30 </StudyTime>
+		<CourseDate>11.01.21 - 18.01.21 </CourseDate>
+	</person>
+
+	<person>
+		<SubjectName> MS SQL </SubjectName>
+		<TeacherLastName>Ямщиков </TeacherLastName>
+		<StudyTime>18:30 - 22:00 </StudyTime>
+		<CourseDate>30.11.20 - 18.12.20 </CourseDate>
+	</person>
+</teacher>	

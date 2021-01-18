@@ -1,0 +1,6 @@
+<!ELEMENT teacher (person+)>
+<!ELEMENT person(SubjectName,TeacherLastName,StudyTime,CourseDate)> 
+<!ELEMENT SubjectName(#PCDATA)> 
+<!ELEMENT TeacherLastName(#PCDATA)> 
+<!ELEMENT StudyTime(#PCDATA)> 
+<!ELEMENT CourseDate(#PCDATA)>

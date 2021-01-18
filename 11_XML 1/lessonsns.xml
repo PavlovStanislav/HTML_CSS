@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<myns:TimeTable xmlns:myns = "http://www.itmo.ru/xml/lessons">
+<L xmlns:litr="http://www.itmo.ru/xml/lessons">
+	<myns:teacher>
+		<myns:person>
+			<myns:SubjectName> HTML </myns:SubjectName>
+			<myns:TeacherLastName>Смольянинов </myns:TeacherLastName>
+			<myns:StudyTime>18:30 - 21:30 </myns:StudyTime>
+			<myns:CourseDate>11.01.21 - 18.01.21 </myns:CourseDate>
+			<litr:Litreture>Г.Буч "Объектно-ориентированный анализ и проектирование с примерами приложений"</litr:Litreture>
+		</myns:person>
+
+		<myns:person>
+			<myns:SubjectName> MS SQL </myns:SubjectName>
+			<myns:TeacherLastName>Ямщиков </myns:TeacherLastName>
+			<myns:StudyTime>18:30 - 22:00 </myns:StudyTime>
+			<myns:CourseDate>30.11.20 - 18.12.20 </myns:CourseDate>
+			<litr:Litreture>Дейт К.Дж. - SQL и реляционная теория. Как грамотно писать код на SQL</litr:Litreture>
+		</myns:person>
+	</myns:teacher>
+	</L>
+</myns:TimeTable>
+
+
